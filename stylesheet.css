@@ -1,9 +1,9 @@
-.pic1 {
+img {
 	float: left;
 	height: 100px;
 	width: 100px;
 }
 
 .top-right {
-	float: right;
+	margin-left: 80%;
 }
