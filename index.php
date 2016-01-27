@@ -30,12 +30,15 @@
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 		​
 		<title>bootstrap-practice</title>
+		<header>
+			<img class="pic1" src="http://www.popsike.com/pix/20100929/220676183740"/>
+		</header>
 	</head>
 	<body>
 		<div class="container">
 			<div class="row" >
 				<div class="row">
-					<h1></h1>
+					<h1>Content Area</h1>
 				</div>
 			</div>
 		</div>
