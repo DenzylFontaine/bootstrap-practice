@@ -32,6 +32,11 @@
 		<title>bootstrap-practice</title>
 		<header>
 			<img class="pic1" src="http://www.popsike.com/pix/20100929/220676183740"/>
+			<div>
+				<button class="btn btn-danger" type="submit">Rocks</button>
+				<button class="btn btn-danger" type="button">Roots</button>
+				<button class="btn btn-danger" type="submit">Regea</button>
+			</div>
 		</header>
 	</head>
 	<body>
