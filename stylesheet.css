@@ -2,6 +2,9 @@ html {
 	background-image: url("https://supacaz.com/wp-content/uploads/2014/05/rasta_flag_by_elcoyotes-d4kdam4.png");
 }
 
+header {
+	background: transparent;
+}
 
 img {
 	height: 75px;
