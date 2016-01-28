@@ -31,12 +31,13 @@
 		​
 		<title>bootstrap-practice</title>
 		<header>
-			<img src="http://www.popsike.com/pix/20100929/220676183740.jpg"
-				<div>
+			<div>
+				<img src="http://www.popsike.com/pix/20100929/220676183740.jpg"
 					<div class="nav">
 					<button class="btn btn-success" type="submit">Rocks</button>
 					<button class="btn btn-success" type="button">Roots</button>
 					<button class="btn btn-success" type="submit">Reggea</button>
+					</div>
 			</div>
 		</header>
 	</head>
