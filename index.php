@@ -31,8 +31,8 @@
 		​
 		<title>bootstrap-practice</title>
 		<header>
-			<img class="nasio" id=header src="http://www.popsike.com/pix/20100929/220676183740.jpg" />
 			<div class="top-right">
+				<img class="nasio" src="http://www.popsike.com/pix/20100929/220676183740.jpg" />
 				<button class="btn btn-danger" type="submit">Rocks</button>
 				<button class="btn btn-danger" type="button">Roots</button>
 				<button class="btn btn-danger" type="submit">Regea</button>
