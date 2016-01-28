@@ -1,9 +1,9 @@
-img {
+.nasio {
 	float: left;
 	height: 100px;
 	width: 100px;
 }
 
 div {
-	margin-left: 80%;
+	text-align: right;
 }
