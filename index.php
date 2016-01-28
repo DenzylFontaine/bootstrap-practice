@@ -48,6 +48,21 @@
 					<h1>Content Area!</h1>
 				</div>
 			</div>
+			<div class="col-md-4">
+				<p>
+					Bio
+				</p>
+			</div>
+			<div class="col-md-4">
+				<p>
+					Music
+				</p>
+			</div>
+			<div class="col-md-4">
+				<p>
+					Relation
+				</p>
+			</div>
 		</div>
 	</body>
 </html>
