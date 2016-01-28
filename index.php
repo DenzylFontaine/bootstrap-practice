@@ -70,7 +70,7 @@
 			<div class="col-md-4">
 				<p>
 					<h4>Relation</h4>
-					We're supposed to be related but all i know is that he makes some very relaxing music. Mello reggae giving you a real island vibe.
+					We're supposed to be related but all I know is that he makes some very relaxing music. Mello reggae, giving you a real island vibe.
 				</p>
 			</div>
 		</div>
