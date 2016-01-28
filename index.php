@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+	<img class="bgd-img" src="http://spliffmobile.com/ultra-hd-wallpapers/download/4k-rasta-grunge-wallpaper.png" />
 	<head>
 		<meta charset="utf-8"/>
 		​<link href="stylesheet.css" rel="stylesheet" type="text/css" />
