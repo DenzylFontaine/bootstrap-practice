@@ -1,6 +1,6 @@
 header{
 	background: black;
-	margin-top: 0;
+	padding-top: 20px;
 }
 
 .pic1 {
@@ -31,4 +31,5 @@ h2 {
 footer {
 	background: black;
 	font-family: cursive;
+	padding: 40px;
 }
