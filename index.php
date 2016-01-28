@@ -49,7 +49,7 @@
 				</div>
 				<br/>
 			</div>
-			<div class="col-md-4">
+			<div>
 				<p>
 					<strong>His Story</strong>
 					</br>
