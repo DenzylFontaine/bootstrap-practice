@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		​
+		​<link href="stylesheet.css" rel="stylesheet" type="text/css" />
 		<!-- IE Rendering Mode = Edge-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -31,6 +31,7 @@
 		​
 		<title>bootstrap-practice</title>
 		<header>
+			<img src="http://www.popsike.com/pix/20100929/220676183740.jpg"
 				<div class="nav">
 					<button class="btn btn-success" type="submit">Rocks</button>
 					<button class="btn btn-success" type="button">Roots</button>
