@@ -33,7 +33,7 @@
 		<title>bootstrap-practice</title>
 		<header>
 			<div>
-				<img src="http://www.popsike.com/pix/20100929/220676183740.jpg"
+				<img class="pic1" src="http://www.popsike.com/pix/20100929/220676183740.jpg"
 			</div>
 				<div class="nav">
 					<button class="btn btn-success" type="submit">Rocks</button>
