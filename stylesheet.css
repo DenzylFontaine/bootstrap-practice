@@ -28,9 +28,14 @@ h2 {
 	margin-left: 75%;
 }
 
+.pic2 {
+	height: 200;
+	width: 200;
+}
+
 footer {
 	background: black;
 	font-family: cursive;
-	padding: 40px;
+	padding: 20px;
 	color: white;
 }
