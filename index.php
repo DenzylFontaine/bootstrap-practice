@@ -31,13 +31,10 @@
 		​
 		<title>bootstrap-practice</title>
 		<header>
-			<div class="top-right">
-				<img src="http://imagecache.blastro.com/timthumb.php/src=http%3A%2F%2Fimages.blastro.com%2Fimages%2Fartist_images%2Ffull%2Ffull_nasiofontaineshelosttrack.jpg&w=610&h=457&zc=2&a=T" >
-				</div>
-				<div>
-					<button class="btn btn-danger" type="submit">Rocks</button>
-					<button class="btn btn-danger" type="button">Roots</button>
-					<button class="btn btn-danger" type="submit">Regea</button>
+				<div class="nav">
+					<button class="btn btn-success" type="submit">Rocks</button>
+					<button class="btn btn-success" type="button">Roots</button>
+					<button class="btn btn-success" type="submit">Reggea</button>
 			</div>
 		</header>
 	</head>
