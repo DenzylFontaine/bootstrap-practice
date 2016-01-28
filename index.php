@@ -69,9 +69,15 @@
 			</div>
 			<div class="col-md-4">
 				<p>
-					Relation
+					<h4>Relation</h4>
+					We're supposed to be related but all i know is that he makes some very relaxing music. Mello reggae giving you a real island vibe.
 				</p>
 			</div>
 		</div>
 	</body>
+	<footer>
+		<p>
+			"A Mrs. Brown, Mrs. Brown, Mrs. Brown you too wicked..."
+		</p>
+	</footer>
 </html>
