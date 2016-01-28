@@ -47,6 +47,7 @@
 				<div class="row">
 					<h1>Nasio Fontaine</h1>
 				</div>
+				<br/>
 			</div>
 			<div class="col-md-4">
 				<p>
