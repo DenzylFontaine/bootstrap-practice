@@ -37,7 +37,7 @@
 				<div class="nav">
 					<button class="btn btn-success" type="submit">Rocks</button>
 					<button class="btn btn-success" type="button">Roots</button>
-					<button class="btn btn-success" type="submit">Reggea</button>
+					<button class="btn btn-success" type="submit">Reggae</button>
 					</div>
 		</header>
 	</head>
