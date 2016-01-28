@@ -45,7 +45,7 @@
 		<div class="container">
 			<div class="row" >
 				<div class="row">
-					<h1>Content Area!</h1>
+					<h1>Nasio Fontaine</h1>
 				</div>
 			</div>
 			<div class="col-md-4">
