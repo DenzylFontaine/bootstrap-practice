@@ -41,8 +41,8 @@
 					</div>
 		</header>
 	</head>
-	<body>
-		<div class="container">
+	<body class="sfooter">
+		<div class="sfooter-content">
 			<div class="row" >
 				<div class="row">
 					<h1>Nasio Fontaine</h1>
