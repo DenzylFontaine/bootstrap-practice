@@ -42,7 +42,7 @@
 		</header>
 	</head>
 	<body class="sfooter">
-		<div class="sfooter-content">
+		<div class="sfooter-content" >
 			<div class="row" >
 				<div class="row">
 					<h1>Nasio Fontaine</h1>
@@ -83,5 +83,4 @@
 			</p>
 		</footer>
 	</body>
-
 </html>
