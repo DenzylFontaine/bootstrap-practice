@@ -78,7 +78,7 @@
 			</div>
 		</div>
 	</body>
-	<footer>
+	<footer class="sfooter">
 		<p>
 			"A Mrs. Brown, Mrs. Brown, Mrs. Brown you too wicked..."
 		</p>
