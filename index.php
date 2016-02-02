@@ -2,7 +2,6 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8"/>
-		​<link href="stylesheet.css" rel="stylesheet" type="text/css" />
 		<!-- IE Rendering Mode = Edge-->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -28,7 +27,8 @@
 		​
 		<!-- Latest compiled and minified Bootstrap JavaScript, all compiled plugins included -->
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
-		​
+		​​<link href="stylesheet.css" rel="stylesheet" type="text/css" />
+
 		<title>bootstrap-practice</title>
 		<header>
 			<div>
