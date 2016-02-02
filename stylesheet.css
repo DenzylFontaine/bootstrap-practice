@@ -41,3 +41,16 @@ footer {
 	padding: 20px;
 	color: white;
 }
+
+html { display: flex;}
+body { width: 100%;}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+.mainContent {
+	flex: 1 0 auto;
+}

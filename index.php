@@ -42,7 +42,7 @@
 		</header>
 	</head>
 	<body>
-		<div class="container">
+		<div class="mainContent">
 			<div class="row" >
 				<div class="row">
 					<h1>Nasio Fontaine</h1>
@@ -77,10 +77,10 @@
 				<img class="pic2" src="http://imagecache.blastro.com/timthumb.php/src=http%3A%2F%2Fimages.blastro.com%2Fimages%2Fartist_images%2Ffull%2Ffull_nasiofontaineshelosttrack.jpg&w=610&h=457&zc=2&a=T"/>
 			</div>
 		</div>
+		<footer class="sfooter">
+			<p>
+				"A Mrs. Brown, Mrs. Brown, Mrs. Brown you too wicked..."
+			</p>
+		</footer>
 	</body>
-	<footer class="sfooter">
-		<p>
-			"A Mrs. Brown, Mrs. Brown, Mrs. Brown you too wicked..."
-		</p>
-	</footer>
 </html>
